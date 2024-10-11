@@ -1,0 +1,16 @@
+.navbar {
+    padding: 1rem 0; /* Adjust the vertical padding */
+}
+
+.navbar-brand {
+    font-size: 1.5rem; /* Adjust the logo size */
+}
+
+.navbar-nav {
+    margin-top: 0.5rem; /* Add space between the logo and the nav items */
+}
+
+.content-images {
+    margin-top: 20%;
+    padding: 0%;
+}
