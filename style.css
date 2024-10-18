@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 .navbar {
     padding: 1rem 0; /* Adjust the vertical padding */
 }
@@ -11,6 +15,68 @@
 }
 
 .content-images {
-    margin-top: 20%;
+    margin-top: 15%;
     padding: 0%;
+}
+
+.gotik {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.brand {
+    margin-left: 35% !important;
+}
+
+.cardd1 {
+    gap: 20px !important;
+}
+
+.cardd2 {
+    gap: 20px !important;
+}
+
+.cardd3 {
+    gap: 20px !important;
+}
+
+.cardd4 {
+    gap: 20px !important;
+}
+
+.ayutingting {
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+.nyenyo {
+    font-size: 30px;
+}
+
+.product-card {
+    border-radius: 10px;
+    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+}
+
+.product-card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.product-price {
+    font-size: 1.0em;
+    color: #d9534f; /* warna merah untuk harga */
+}
+
+.syantik1{
+    font-size: 15px;
+}
+
+.belii {
+    border: 1px solid #000 !important;
+    background-color: white !important;
 }
